@@ -1,0 +1,40 @@
+JTSD-236  USE REFERENCE for dr sr switchover content .
+
+==============================================================
+
+
+
+https://synoption.atlassian.net/jira/servicedesk/projects/JTSD/queues/custom/18/JTSD-894
+
+
+Need access to AD, VCenter and Backup server
+
+
+
+
+Hi 
+
+Please provide  access to following servers for Vikram Khatri and Naresh Kumar: 
+
+AD server 
+VCenter 
+Backup server ( Veeam)
+
+Regards,
+Vikram
+
+
+Sir we are canceling this incedent due to folling reason : - Reporter created incident instead of SR , so we are canceling this incident . this is not consider in incident because it is service request .
+please create SR for the same . if you need help me pls contact on my mobile no 639672871 . thanks  
+
+
+======================================================
+
+build@sg1mdser1:~$ pwdx 34348
+34348: /home/build/sofxng_deployment/sofxenv/bin
+
+lpsim1 need to run on md server entity id 53 :- path cd deployment/sofxenv$
+./startenv.sh ENTITY MD 53 
+
+
+
